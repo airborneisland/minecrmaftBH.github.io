@@ -1,1 +1,1 @@
-# minecrmaftBH.github.io
+# minecraftBH.github.io
